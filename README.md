@@ -30,7 +30,7 @@ OAuth also enables Resource Owners (end users) to authorize limited third-party 
 
 ### Benefits of using oAuth
 
-OAuth allows:
+    OAuth allows:
 
    * Users get to make explicit decisions about what information they share, and with who
    * Resource Servers can integrate with third parties without exposing Resource Owner credentials.
