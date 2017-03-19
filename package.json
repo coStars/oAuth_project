@@ -1,0 +1,26 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "OAuth_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coStars/oAuth_project.git"
+  },
+  "author": "Ghada , Mohammed ,Alaa , Akram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coStars/oAuth_project/issues"
+  },
+  "homepage": "https://github.com/coStars/oAuth_project#readme",
+  "dependencies": {
+    "env2": "^2.1.1",
+    "handlebars": "^4.0.6",
+    "hapi": "^16.1.0",
+    "inert": "^4.1.0",
+    "wreck": "^10.0.0"
+  }
+}
